@@ -4,5 +4,4 @@ def myfunc():
 
   
 def home():
-    print("Welcome to you home.")
-
+    print("Welcome to home.")
