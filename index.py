@@ -4,4 +4,3 @@ def myfunc():
 
 def home(name):
     print(f"Welcome {name} to your new home.")
-
