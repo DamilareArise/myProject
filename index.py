@@ -3,5 +3,5 @@ def myfunc():
     return True
 
 
-def home():
-    print("Welcome to you home.")
+def home(name):
+    print(f"Welcome {name} to your new home.")
