@@ -4,3 +4,6 @@ def sum(a, b):
     '''
     res = a + b
     return res
+
+def sub():
+    pass
