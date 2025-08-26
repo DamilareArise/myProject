@@ -3,4 +3,4 @@ def myfunc():
     return True
 
 def home():
-    return "Welcome Home"
+    return "Welcome to my world now!"
