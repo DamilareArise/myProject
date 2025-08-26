@@ -1,5 +1,5 @@
 def myfunc():
-    val = 5
+    val = 10
     return True
 
 def home(name):
